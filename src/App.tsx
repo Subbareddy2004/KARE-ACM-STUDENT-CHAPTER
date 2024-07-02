@@ -39,8 +39,8 @@ export default function App() {
         </nav>
 
         <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="/Team" element={<Team/>} />
+          <Route path="/" element={<Team/>} />
+          <Route path="/Home" element={<Home/>} />
         </Routes>
       </div>
     </Router>
