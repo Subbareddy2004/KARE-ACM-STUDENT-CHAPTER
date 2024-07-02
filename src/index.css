@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-color {
+  background-color: hsl(222, 84%, 5%);
+}
